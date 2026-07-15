@@ -1,2 +1,159 @@
-# Vacation2026
-My vacation story
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vacation 2026</title>
+    <style>
+      body {
+        background-image: url("new-york-city-skyline-.jpg");
+        background-size: cover; /* makes the image fill the screen */
+        background-repeat: no-repeat;
+        background-position: center;
+      }
+
+    </style>
+  </head>
+  <body>
+   <h1
+      style="
+        font-family: &quot;Courier New&quot;, Courier, monospace;
+        font-size: 60px;
+        color: black;
+        margin: 40px;
+        text-align: left;
+      "
+    >
+      Vacation 2026
+    </h1>
+    
+    <p
+      style="
+        font-family: &quot;Courier New&quot;, Courier, monospace;
+        font-size: 30px;
+        color: #333;
+        font-weight: bold;
+        margin: 20px 100px;
+      "
+    >
+      Family adventure of traveling to New York City to get our Swedish
+      passports renewed.
+    </p>
+    <p
+      style='
+        font-family: "Courier New", Courier, monospace;
+        font-size: 20px;
+        color: white;
+        font-weight: bold;
+        margin: 20px 100px;
+        max-width: 200px;
+        background: rgba(0, 0, 0, 0.6); /* rectangle behind text */
+        padding: 10px; /* space inside rectangle */
+        border-radius: 10px; /* optional rounded corners
+      ''
+    >
+      <a
+        href="Transportation page.html"
+        style="color: white; text-decoration: underline"
+      >
+        Transportation
+      </a>
+    </p>
+    <p
+      style="
+        font-family: &quot;Courier New&quot;, Courier, monospace;
+        font-size: 20px;
+        color: white;
+        font-weight: bold;
+        margin: 20px 100px;
+        max-width: 200px;
+        background: rgba(0, 0, 0, 0.6); /* rectangle behind text */
+        padding: 10px; /* space inside rectangle */
+        border-radius: 10px; /* optional rounded corners
+      "
+    >
+      <a
+        href="Accomodation page.html"
+        style="color: white; text-decoration: underline"
+        >
+      Accommodation
+      </a>
+
+    </p>
+    <p
+      style="
+        font-family: &quot;Courier New&quot;, Courier, monospace;
+        font-size: 20px;
+        color: white;
+        font-weight: bold;
+        margin: 20px 100px;
+        max-width: 200px;
+        background: rgba(0, 0, 0, 0.6); /* rectangle behind text */
+        padding: 10px; /* space inside rectangle */
+        border-radius: 10px; /* optional rounded corners
+      "
+  
+    >
+      <a
+        href="Activities.html"
+        style="color: white; text-decoration: underline"
+        >
+      Activities
+      </a>
+
+    </p>
+    <p
+      style="
+        font-family: &quot;Courier New&quot;, Courier, monospace;
+        font-size: 20px;
+        color: white;
+        font-weight: bold;
+        margin: 20px 100px;
+        max-width: 200px;
+        background: rgba(0, 0, 0, 0.6); /* rectangle behind text */
+        padding: 10px; /* space inside rectangle */
+        border-radius: 10px; /* optional rounded corners
+      "
+    >
+      <a
+        href="Food.html"
+        style="color: white; text-decoration: underline"
+        >
+      Food
+      </a>
+    </p>
+    <p
+      style="
+        font-family: &quot;Courier New&quot;, Courier, monospace;
+        font-size: 20px;
+        color: white;
+        font-weight: bold;
+        margin: 20px 100px;
+        max-width: 200px;
+        background: rgba(0, 0, 0, 0.6); /* rectangle behind text */
+        padding: 10px; /* space inside rectangle */
+        border-radius: 10px; /* optional rounded corners
+      "
+    >
+      <a
+        href="ConsolateVisit.html"
+        style="color: white; text-decoration: underline"
+        >
+      Consulate Visit
+      </a>
+    <p
+      style="
+        font-family: &quot;Courier New&quot;, Courier, monospace;
+        font-size: 20px;
+        color: white;
+        font-weight: bold;
+        margin: 20px 100px;
+      "
+    >
+      Conclusion: Overall, the trip was a great success. We were able to explore
+      a new city, meet new people, and create lasting memories. The experience
+      was both educational and entertaining, and we look forward to planning our
+      next adventure.
+    </p>
+  </body>
+</html>
